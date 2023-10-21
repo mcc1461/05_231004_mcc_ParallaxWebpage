@@ -1,0 +1,34 @@
+* {padding: 0; margin: 0; box-sizing: border-box;}
+.main {
+    background-color: red;
+    height: 100vh;
+    padding: 1rem;
+}
+ul * {
+    list-style: none;
+}
+.aa {
+    margin:10px;
+}
+.bir {
+    background-color: #fff;
+    height: 50%;
+}
+.bir ul {
+    width: 100%vw;
+    display: flex;
+    
+}
+.bir ul li {
+    width: 100px;
+    height: 200px;
+    gap: 1%;
+    background-color: aqua;
+    flex: 1;
+}
+.iki {
+    background-color: gold;
+}
+.uc {
+    background-color: aquamarine;
+}
